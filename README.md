@@ -11,4 +11,4 @@ print("hola mundo")
 ###### Nivel 6 (H6)
 
 Imagen simple
-![Texto alternativo](c03e1ab01-f0a6-45c1-a714-3238551a29f0.jpg)
+![Texto alternativo](bonereef.jpg)
