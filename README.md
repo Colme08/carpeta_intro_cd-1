@@ -14,4 +14,4 @@ Imagen simple
 ![Texto alternativo](bonereef.jpg)
 
 Imagen desde URL externa
-![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+![Logo](https://github.com/Colme08/carpeta_intro_cd-1/blob/main/bonereef.jpg)
